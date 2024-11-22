@@ -1,6 +1,10 @@
 # Retail-Analysis-using-Microsoft-Excel
 
 ---
+
+
+![Image Description](https://drive.google.com/uc?id=1LOtyIYiYXk1WNvCeiwpLK0QSKMOYcvm8)
+
 Here’s a detailed analysis of the provided **Retail Analysis Dashboard**:
 
 ---
